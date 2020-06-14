@@ -19,8 +19,8 @@
 		<java.version>1.8</java.version>
 
 		<sonar.projectKey>receita-segura</sonar.projectKey>
-		<sonar.host.url>http://ip172-18-0-3-brgdl8dim9m0009qjeug-9000.direct.labs.play-with-docker.com \</sonar.host.url>
-		<sonar.login>a236d089105de85c9aa36fcf32f5b7e004644d78</sonar.login>
+		<sonar.host.url>http://ip172-18-0-16-brj6l9boudsg009fhuf0-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>f97bc21f1a366fde76a5c50d5660530e6a97afff</sonar.login>
 
 		<jasperreports.version>6.7.0</jasperreports.version>
 		<jasperreports-functions.version>6.9.0</jasperreports-functions.version>
